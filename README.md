@@ -16,4 +16,4 @@ Proyectos de Java básico realizados en el Bootcamp Full-Stack de Imagina e Inge
 13. Eventos
 14. XML
 
-* Los temas 2 y 3 no son subidos porque fueron ejercicios teóricos sin código.
+* Los temas 2 y 3 no están subidos porque fueron ejercicios teóricos sin código.
