@@ -1,5 +1,5 @@
-# Java-Bootcamp-Imagina-Ingenia
-Proyectos de Java básico realizados en el Bootcamp Full-Stack de Imagina e Ingenia
+# Java-Bootcamp
+Proyectos de Java básico realizados en el Bootcamp Full-Stack
 
 1. Introducción
 2. Los archivos Java *
