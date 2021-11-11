@@ -41,7 +41,7 @@ public class Ejercicio8 {
 			
 			//Se elimina de la lista de equipos disponibles
 			disponiblesEquipos.indexOf(aleatorioEquipo); //busca el índice del equipo aleatorio
-			disponiblesEquipos.remove(aleatorioEquipo); //
+			disponiblesEquipos.remove(aleatorioEquipo); 
 		}
 	}
 
